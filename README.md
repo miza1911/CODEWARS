@@ -1,1 +1,1 @@
-# CODWARS
+# CODEWARS
