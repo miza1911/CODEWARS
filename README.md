@@ -1,2 +1,2 @@
-# CODEWAR
-<h1>test</h1>
+# CODEWARS
+<h1>Test</h1>
